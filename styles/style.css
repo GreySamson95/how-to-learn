@@ -232,6 +232,8 @@ min-width: 784px;
   line-height: 69px;
   font-size: 60px;
   font-weight: bold;
+  position: relative;
+  z-index: 3;
 }
 
 .section-subtitle_theme_dark {
@@ -241,14 +243,6 @@ min-width: 784px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-}
-
-.section-subtitle {
-  position: relative;
-  z-index: 3;
-}
-
-.section-title {
   position: relative;
   z-index: 3;
 }
