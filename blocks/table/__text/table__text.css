@@ -1,0 +1,10 @@
+@import url(./__text/table__text.css);
+
+.table__text {
+    line-height: 1.2;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+  

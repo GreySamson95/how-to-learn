@@ -1,0 +1,7 @@
+@import url(./__book-container/khan__book-container.css);
+
+.khan__book-container {
+    position: relative;
+    display: flex;
+    flex-direction: row;  
+}

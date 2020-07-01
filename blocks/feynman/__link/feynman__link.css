@@ -1,0 +1,18 @@
+@import url(./__link/feynman__link.css);
+
+.feynman__link {
+    position: absolute;
+    top: 50%;
+    right: 48px;
+    font-size: 36px;
+    line-height: 51px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #1f1f1f;
+    opacity: 1;
+    transition: opacity 0.6s ease;
+  }
+
+.feynman__link:hover {
+  opacity: 0.5;
+}
