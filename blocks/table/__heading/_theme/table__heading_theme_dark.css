@@ -1,8 +1,5 @@
 .table__heading_theme_dark {
     color: white;
     margin-bottom: 20px;
-    line-height: 1.15;
-    font-weight: bold;
-    font-size: 24px;
     z-index: 3;
   }

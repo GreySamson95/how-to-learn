@@ -7,9 +7,10 @@
     }
 }
 
-.rotation{  
+.rotation {  
     animation-name: rotation;
     animation-duration: 20s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-delay: .5s;}
+    animation-delay: .5s;
+}

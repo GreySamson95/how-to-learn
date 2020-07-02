@@ -1,11 +1,12 @@
-@import url(__subtitle/header__subtitle.css);
+
 
 .header__subtitle {
     position: absolute;
-    width: 388px;
+    max-width: 388px;
     bottom: 30px;
     left: 64px;
     font-size: 18px;
     line-height: 25px;
     z-index: 3;
+    width: 100%;
   }

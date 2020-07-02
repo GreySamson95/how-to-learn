@@ -1,9 +1,10 @@
-@import url(./__quote/khan__quote.css);
+
 
 .khan__quote {
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-    width: 790px;
+    max-width: 790px;
+    width: 100%;
     margin-bottom: 36px;
 }

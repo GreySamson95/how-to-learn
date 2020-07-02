@@ -1,5 +1,8 @@
-@import url(./__column-links/footer__column-links.css);
+
 
 .footer__column-links {
     margin: 0;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
   }
