@@ -2,8 +2,6 @@
 @import url(../video/__iframes/video__iframes.css);
 
 .video {
-
     position: relative;
-    z-index: 3;
-    
+    z-index: 3;  
 }
