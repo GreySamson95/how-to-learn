@@ -10,4 +10,6 @@
 **https://validator.w3.org/nu/**
 **https://css-tricks.com/**
 
+Ссылка на проект (https://greysamson95.github.io/how-to-learn/index.html.)
+
 
